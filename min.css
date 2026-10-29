@@ -1,0 +1,98 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+.header{
+padding-top: 50px;
+}
+.header-container{
+    max-width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+.list{
+
+     max-width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 45px;
+    list-style: none;
+    text-decoration: none;
+    color: black;
+    font-family: sans-serif;
+
+}
+.list-link
+{
+    color: black;
+
+}
+.tugma{
+    color: black;
+    margin-right: 30px;
+    background-color: rgb(250, 157, 18);
+    border-radius: 70px;
+    padding: 10px 50px;
+    
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.manky{
+    color: black;
+    font-family: sans-serif;
+    font-size: 17px;
+}
+.logo{
+    margin-right: 150px;
+}
+.section{
+    padding-top: 40px;
+    padding-bottom: 50px;
+}
+.section-container{
+     max-width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 50PX;
+}
+.sec-text{
+    margin-left: 100PX;
+}
+ .log{
+    margin-right: 150PX;
+    margin-top: 100PX;
+ }
+ 
+.footer{
+padding-top: 50px;
+padding-bottom: 50px;
+}
+.footer-container{
+max-width: 1200px;
+margin-left: auto;
+margin-right: auto;
+}
+.footer-text{
+    color: aqua;
+    padding-bottom: 60px;
+    padding-top: 50px;
+    margin-left: 370px;
+    font: size 20px;
+    
+}
+.rasm{
+    display: flex;
+    gap: 35px;
+    margin-left: 100px;
+}
